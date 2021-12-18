@@ -6,6 +6,7 @@ import { viteSingleFile } from "vite-plugin-singlefile"
 export default defineConfig({
 	plugins: [svelte(), viteSingleFile()],
 	build: {
+		outDir: "./LEVERING", 
 		target: "esnext",
 		assetsInlineLimit: 100000000,
 		chunkSizeWarningLimit: 100000000,

@@ -15,6 +15,6 @@ Ved kjøring av `npm run build` bygges hele Svelte-prosjektet til én enkelt HTM
 ## Bygging av HTML-fil og levering
 
 1. Skriv `npm run build` i terminalen
-2. Hele prosjektet ditt ligger nå i HTML-filen `index.html` i mappen `dist`
-3. Kopier `src/App.svelte` inn i mappen `dist`
+2. Hele prosjektet ditt ligger nå i HTML-filen `index.html` i mappen `LEVERING`
+3. Kopier `src/App.svelte` inn i mappen `LEVERING`
 4. Pakk mappen dist til en .zip-fil og lever 

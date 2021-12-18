@@ -1,0 +1,2 @@
+Denne oppgaven er løst med SvelteJS (https://svelte.dev/).
+Oppgaven kan kjøres fra "index.html". Koden ligger i mappen "Kode".
